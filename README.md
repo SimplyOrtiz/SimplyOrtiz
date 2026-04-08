@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    I'm Guilherme, aka Ortiz.<br>
+    I'm Guilherme, aka SimplyOrtiz.<br>
     I'm a Brazillian programmer.<br>
     I create Websites and Games for fun.<br>
 </p>
@@ -24,14 +24,14 @@
     </div>
 </div>
 
-<hr>
+<!--<hr>
 
 <div align="center">
     <p>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimplyOrtiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyOrtiz&layout=compact&langs_count=6&theme=tokyonight">
     </p>
-</div> 
+</div> -->
 
 <!--
     Don't Forget by Toby Fox
