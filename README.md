@@ -12,15 +12,21 @@
 <div align="center">
     <b>Currently, I know how to program in the following languages</b>
     <div style="display:block;"> <br>
-        <p>
-            <img alt="JavaScript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-            <img alt="HTML5 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-            <img alt="CSS3 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-            <img alt="Godot logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
-            <img alt="Lua logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg">
-            <img alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-            <img alt="C Plus Plus logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
-        </p>
+        <span>
+            <img alt="JavaScript logo" height="30" width="40" src="./Assets/javascript-plain.svg">
+            <img alt="HTML5 logo" height="30" width="40" src="./Assets/html5-original.svg">
+            <img alt="CSS3 logo" height="30" width="40" src="./Assets/css3-original.svg">
+        </span>
+        <span style="font-size:2em;">|</span>
+        <span>
+            <img alt="Godot logo" height="30" width="40" src="./Assets/godot-original.svg">
+            <img alt="Lua logo" height="30" width="40" src="./Assets/lua-original.svg">
+        </span>
+        <span style="font-size:2em;">|</span>
+        <span>
+            <img alt="Python logo" height="30" width="40" src="./Assets/python-original.svg">
+            <img alt="C Plus Plus logo" height="30" width="40" src="./Assets/cplusplus-original.svg">
+        </span>
     </div>
 </div>
 
