@@ -1,34 +1,30 @@
-<h1 align="center">Hello There! 👋</h1>
-
+<h1 align="center">
+  <strong>Heya there!</strong>
+</h1>
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
     I'm Guilherme, aka SimplyOrtiz.<br>
-    I'm a Brazillian programmer.<br>
-    I create Websites and Games for fun.<br>
+    I'm a programmer, 2D&3D Artist.<br>
+    I create Websites and Games.<br>
+    <sub>Just being silly and having fun!</sub> <!-- trying to at least... -->
 </p>
-
-<hr>
     
+---
+
 <div align="center">
-    <b>Currently, I know how to program in the following languages</b>
-    <div style="display:block;"> <br>
-        <span>
-            <img alt="JavaScript logo" height="30" width="40" src="./Assets/javascript-plain.svg">
-            <img alt="HTML5 logo" height="30" width="40" src="./Assets/html5-original.svg">
-            <img alt="CSS3 logo" height="30" width="40" src="./Assets/css3-original.svg">
-        </span>
-        <span style="font-size:2em;">|</span>
-        <span>
-            <img alt="Godot logo" height="30" width="40" src="./Assets/godot-original.svg">
-            <img alt="Lua logo" height="30" width="40" src="./Assets/lua-original.svg">
-        </span>
-        <span style="font-size:2em;">|</span>
-        <span>
-            <img alt="Python logo" height="30" width="40" src="./Assets/python-original.svg">
-            <img alt="C Plus Plus logo" height="30" width="40" src="./Assets/cplusplus-original.svg">
-        </span>
-    </div>
+
+### Software I use! ^-^
+
+<img src="./assets/kit/Row1_Icons.png" alt="Software I use" width="325">
+
+### The boring stuff *(programming languages)*
+
+<img src="./assets/kit/Row2_Icons.png" alt="Programming languages" width="425">
+
 </div>
+
+---
+
+<!-- I shall update this with more stuff :P -->
 
 <!--<hr>
 
@@ -40,7 +36,7 @@
 </div> -->
 
 <!--
-    Don't Forget by Toby Fox
+    🎶 Don't Forget 🎶
     
     When the light is running low and the shadows start to grow
     And the places that you know seem like fantasy
